@@ -1,0 +1,2 @@
+# trabalho-ninhodevs
+Pseudocódigo
